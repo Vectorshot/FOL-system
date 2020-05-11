@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Input">
+      <UniqueIdentifier>{50d7d6b3-99b5-46a4-bc55-734b27173c12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{6d84df5c-8bd6-41a5-a257-e7b8f2d643b6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="head.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input1.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input2.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input3.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="output.txt">
+      <Filter>NewFilter1</Filter>
+    </Text>
+    <Text Include="input4.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input5.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input6.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input7.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input8.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input9.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input49.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="output49.txt">
+      <Filter>NewFilter1</Filter>
+    </Text>
+    <Text Include="Text.txt">
+      <Filter>NewFilter1</Filter>
+    </Text>
+    <Text Include="test3.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="output49-1.txt">
+      <Filter>NewFilter1</Filter>
+    </Text>
+    <Text Include="test1.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="output1.txt">
+      <Filter>NewFilter1</Filter>
+    </Text>
+    <Text Include="test29.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="test2.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="test8.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="test8_1.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="test9.txt">
+      <Filter>Input</Filter>
+    </Text>
+    <Text Include="input13.txt">
+      <Filter>Input</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="homework11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

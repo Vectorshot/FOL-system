@@ -1,0 +1,17 @@
+H5(John)
+
+A5(x) => H5(x)
+D5(x,y) => ~H5(y)
+B5(x,y) & C5(x,y) => A5(x)
+B5(John,Alice)
+B5(John,Bob)
+D5(x,y) & Q5(y) => C5(x,y)
+D5(John,Alice)
+Q5(Bob)
+D5(John,Bob)
+F5(x) => G5(x)
+G5(x) => H5(x)
+H5(x) => F5(x)
+R5(x) => H5(x)
+
+~D5(x, John)

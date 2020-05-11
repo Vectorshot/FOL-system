@@ -1,0 +1,5 @@
+1
+P(John)
+2
+A(x) & ~B(x) => P(John)
+~A(x) => B(x)

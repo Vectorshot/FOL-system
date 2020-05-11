@@ -1,0 +1,1 @@
+Take(a,b)&Ta/ke(b,c)&Take(a)=>Take(c,d)

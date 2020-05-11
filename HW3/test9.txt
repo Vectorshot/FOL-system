@@ -1,0 +1,10 @@
+1
+Criminal3(West)
+7
+American3(x) & Weapon3(y) & Sells3(x,y,z) & Enemy3(z,America) => Criminal3(x)
+Owns3(Nono,M1)
+Missile3(M1)
+Missile3(x) & Owns3(Nono,x) => Sells3(West,x,Nono)
+Missile3(x) => Weapon3(x)
+Enemy3(Nono,America)
+American3(West)

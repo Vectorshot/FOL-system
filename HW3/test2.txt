@@ -1,0 +1,17 @@
+1
+F1(Joe)
+14
+F1(x) => G1(x)
+G1(x) => H1(x)
+H1(x) => F1(x)
+R1(x) => H1(x)
+A1(x) => H1(x)
+D1(x,y) => ~H1(y)
+B1(x,y) & C1(x,y) => A1(x)
+B11(John,Alice)
+B11(John,Joe)
+D1(x,y) & Q1(y) => C1(x,y)
+D1(John,Alice)
+Q1(Joe)
+D1(John,Joe)
+R1(Tom)
